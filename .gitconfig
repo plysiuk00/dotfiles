@@ -1,0 +1,7 @@
+[user]
+    name = Anton Plysiuk
+    email = anton@example.com
+[alias]
+    st = status
+    co = checkout
+    cm = commit
